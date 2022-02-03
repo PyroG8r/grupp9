@@ -2,6 +2,7 @@
 2021-12-08
 Introduktion till programmering
 Lab4*/
+hello 
 #include <iostream>
 #include <fstream>
 #include <string>
